@@ -1,5 +1,6 @@
 # Quasar Luminosity
 Astronomy 3350 Final Project: Quasar Luminosity
+
 Authored by: Aiden Zelakiewicz, Kevin Hoy, Rachel Slaybaugh, Simon Filbert, and Sebastian Nunez-Ceardi
 
 This notebook calculates the rest spectral flux density and spectral energy distributions (SED) of quasars from multiple surveys.
